@@ -119,3 +119,6 @@ analytics:
   google:
     tracking_id: "UA-170263603-1"
     anonymize_ip: false # default
+
+header:
+  image: /assets/images/header_1.jpg
